@@ -1,2 +1,2 @@
-import produtos from './produtos'
+import produtos from "./produtos";
 export { produtos }
